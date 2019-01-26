@@ -1,1 +1,4 @@
 rootProject.name = 'ribbon-example'
+include 'ping-server1'
+include 'ping-server2'
+
